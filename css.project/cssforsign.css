@@ -1,0 +1,50 @@
+body {
+    background-image: url(background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+h2 {
+font-size: 25px;
+color: aliceblue;
+overflow: hidden;
+text-align: center;
+
+}
+.sign {
+    
+    text-align: center;
+    overflow: hidden;
+}
+form {
+    color:aliceblue ;
+    font-size: 25px;
+    margin-left: 35%;
+    margin-right: 30%;
+    background-color: #050A30;
+    overflow: hidden;
+}
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.sum {
+    background-color: cyan;
+    color: black;
+    font-size: 30px;
+    width: 100%;
+    overflow: hidden;
+}
+a {
+    color: #E2E8F0;
+    font-size: 25px;
+    overflow: hidden;
+    text-align: center;
+    text-decoration: none;
+    color: cyan;
+    text-transform: capitalize;
+}

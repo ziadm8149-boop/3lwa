@@ -1,0 +1,70 @@
+.log  {
+    font-size: 50px;
+    color: #EAF4FF;
+    overflow: hidden;
+    text-align: center;
+    
+}
+label {
+    color: #E2E8F0;
+    font-size: 25px;
+    overflow: hidden;
+    
+}
+body {
+    background-image: url(background.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-left: 30%;
+    margin-right: 30% ;
+     overflow: hidden;
+
+}
+input {
+   width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    overflow: hidden;
+    line-height: 1.6;
+}
+.sum {
+    background-color: cyan;
+    color: black;
+    font-size: 30px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.text {
+background-color: #050A30;
+overflow: hidden;
+
+}
+form {
+
+    overflow: hidden;
+    margin: auto ;
+    padding:0%;
+    /* border-width:10px ;
+    border-color: blue;
+    border-style: solid ; */
+}
+.sign {
+    color: #E2E8F0;
+    font-size: 28px;
+    background-color: #101B4D;
+    padding-left:17.5% ;
+    overflow: hidden;
+}
+a {
+    color: #E2E8F0;
+    font-size: 25px;
+    overflow: hidden;
+    text-align: center;
+    text-decoration: none;
+    color: cyan;
+    text-transform: capitalize;
+}
